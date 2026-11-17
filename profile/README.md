@@ -10,18 +10,18 @@
 
 ### 하네스 (`harness`)
 
-- [claude-code-harness](https://github.com/agent-discipline/claude-code-harness): Claude Code가 인터뷰, 명세 합의, 구현, 검증, 기록의 순서를 거치도록 강제하는 규칙·훅·템플릿 패키지.
+- [harness](https://github.com/agent-discipline/harness): Claude Code가 인터뷰, 명세 합의, 구현, 검증, 기록의 순서를 거치도록 강제하는 규칙·훅·템플릿 패키지.
 
 ### 규칙 (`rules`)
 
-- [claude-rules](https://github.com/agent-discipline/claude-rules): 문제 유형별 접근 방식과 해결 방식을 정리한 규칙 모음. 지금은 규칙을 정립하는 단계다.
+- [rules](https://github.com/agent-discipline/rules): 문제 유형별 접근 방식과 해결 방식을 정리한 규칙 모음. 지금은 규칙을 정립하는 단계다.
 
 ### 실험 (`experiment`)
 
 - [clean-code-llm-experiment](https://github.com/agent-discipline/clean-code-llm-experiment): 사람에게 좋은 설계가 LLM 코딩 에이전트에게도 좋은지를 갓 클래스와 레이어드 구조로 비교한다.
 - [graph-nav-experiment](https://github.com/agent-discipline/graph-nav-experiment): 코드 지도와 네이밍·아키텍처 중 무엇이 에이전트의 토큰과 정답률을 정하는지 측정한다.
 - [compare-issue-archive](https://github.com/agent-discipline/compare-issue-archive): 이슈·의사결정 기록이 코딩 에이전트에게 도움이 되는지 측정한다.
-- [need-haness-lab](https://github.com/agent-discipline/need-haness-lab): 하네스 절차가 짧은 요청이나 상세 프롬프트보다 실제로 나은지 비교한다. 본 실험은 아직 진행 전이다.
+- [need-harness-lab](https://github.com/agent-discipline/need-harness-lab): 하네스 절차가 짧은 요청이나 상세 프롬프트보다 실제로 나은지 비교한다. 본 실험은 아직 진행 전이다.
 
 ## 원칙
 
