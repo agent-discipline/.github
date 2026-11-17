@@ -22,6 +22,7 @@
 - [graph-nav-experiment](https://github.com/agent-discipline/graph-nav-experiment): 코드 지도와 네이밍·아키텍처 중 무엇이 에이전트의 토큰과 정답률을 정하는지 측정한다.
 - [compare-issue-archive](https://github.com/agent-discipline/compare-issue-archive): 이슈·의사결정 기록이 코딩 에이전트에게 도움이 되는지 측정한다.
 - [need-harness-lab](https://github.com/agent-discipline/need-harness-lab): 하네스 절차가 짧은 요청이나 상세 프롬프트보다 실제로 나은지 비교한다. 본 실험은 아직 진행 전이다.
+- [prompt-language-experiment](https://github.com/agent-discipline/prompt-language-experiment): 에이전트 지시문을 한국어로 쓸 때와 영어로 쓸 때 무엇이 달라지는지 잰다. 1차 측정은 하네스 규칙 문서의 입력 토큰이다.
 
 ## 원칙
 
